@@ -36,7 +36,7 @@ There are some basic steps for you to start this program.
 1. Make a table. Make sure that table name is "table_word".
 2. Add table structures
 > word(varchar(20)), meaning(varchar(20))
-3. Clone this repository in your /var/www/html/ derectory.
+3. Clone this repository in your /var/www/html/ directory.
 4. You can access Web browser "http://[RASPBERRY IP ADDRESS]/userword.php"
 
 ## for user
