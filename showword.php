@@ -66,7 +66,7 @@
 </nav>
 
 <div class="container">
-  <h2>The word is saved sucessibly.</h2>
+  <h2>The word is saved successfully.</h2>
   <p>This is a word and meaning you saved.</p>            
   <table class="table">
     <thead>
