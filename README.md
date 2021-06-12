@@ -56,7 +56,7 @@ __Administrators can manage databases.__
 2. I think that a function that users can modify and delete datas should be added.
 
 # My contribution to this project
-------------
+
 ##1. Building a Web Server
 I built a Web Server using Apache2
 ##2. Making DataBase
@@ -68,10 +68,9 @@ Link: [Bootstrap][bootstraplink]
 
 [bootstraplink]: https://www.w3schools.com/bootstrap4/default.asp "Go bootstrap"
 
-------------
 # Inquiry
 21900269@handong.edu
-------------
+
 # Video
 
 
