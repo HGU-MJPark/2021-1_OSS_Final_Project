@@ -24,8 +24,8 @@ There are some basic steps for you to start this program.
 > sudo apt install phpmyadmin
 > sudo ln -s /usr/share/phpmyadmin /var/www/html
 
-+http://[raspberrypi IP address]/phpmyadmin
-+initial username(ID): phpmyadmin
++ http://[raspberrypi IP address]/phpmyadmin
++ initial username(ID): phpmyadmin
 
 8. Grant phpmyadmin database
 > sudo mysql
@@ -47,9 +47,9 @@ There are some basic steps for you to start this program.
 5. finally, I added some links for you to find words through the links. There are 'google and naver links'.
  
 # The advantages of UserWordVocabulary
-__It is easily accessible to anyone.__
-__The database can be used to store information.__
-__Administrators can manage databases.__
++ __It is easily accessible to anyone.__
++ __The database can be used to store information.__
++ __Administrators can manage databases.__
 
 # Things to Improvements of UserWordVocabylary
 1. By creating a login function, each user must be able to save their own data.
