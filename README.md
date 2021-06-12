@@ -57,13 +57,13 @@ __Administrators can manage databases.__
 
 # My contribution to this project
 
-##1. Building a Web Server
+## 1. Building a Web Server
 I built a Web Server using Apache2
-##2. Making DataBase
+## 2. Making DataBase
 I made DataBase using mySQL
-##3. Making Web page(.php)
+## 3. Making Web page(.php)
 I used html $ css & Bootstrap4. 
-// code
+
 Link: [Bootstrap][bootstraplink]
 
 [bootstraplink]: https://www.w3schools.com/bootstrap4/default.asp "Go bootstrap"
