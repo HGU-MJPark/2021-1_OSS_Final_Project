@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap 4 Website Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <style>
+  .fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  </style>
+</head>
+
+<body> 
+
+<?php
+	$hostname = 'localhost:3306';
+	$user = 'raspberryWordWeb';
+	$password = 'alswl0820';
+	$database = 'testDB';
+	$conn = mysqli_connect($hostname, $user, $password, $database);
+?>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h1>Words book</h1>
+  <p>Welcome to this web book.</p> 
+</div>
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <a class="navbar-brand" href="http://172.20.10.5/phpinfo.php">Home</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="http://172.20.10.5/addword.php">Add word</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="http://172.20.10.5/wordlist.php">Print book</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Why not change the world?</a>
+      </li>
+    </ul>
+  </div>  
+</nav>
+
+<div class="container" style="margin-top:30px">
+  <div class="row">
+    <div class="col-sm-4">
+      <h2>About this word book</h2>
+      <h5>Just for you.</h5>
+      <p>There are two menu.</p>
+      <p>1. Add   2. show</p>
+      <h3>Some Links</h3>
+      <ul class="nav nav-pills flex-column">
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.google.co.kr">Google link</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://en.dict.naver.com">Naver Vocabulary</a>
+        </li>
+      </ul>
+      <hr class="d-sm-none">
+    </div>
+    <div class="col-sm-8">
+	<h2>Add word menu</h2><br>
+	<p>You can add words that you didn't know before.<br><br></p>
+	<h2>Print word menu</h2><br>
+	<p>You can see the words you saved<br><br></P>
+    </div>
+  </div>
+</div>
+
+ 
+<script type ="text/javascript"> 
+ 
+ 
+ 
+</script> 
+ 
+</body> 
+</html>
