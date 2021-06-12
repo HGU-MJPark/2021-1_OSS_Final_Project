@@ -27,7 +27,7 @@
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <a class="navbar-brand" href="http://172.20.10.5/phpinfo.php">Home</a>
+  <a class="navbar-brand" href="http://172.20.10.5/addword.php">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
