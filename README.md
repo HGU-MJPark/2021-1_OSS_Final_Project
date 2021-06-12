@@ -63,10 +63,6 @@ I built a Web Server using Apache2
 I made DataBase using mySQL
 ##3. Making Web page(.php)
 I used html $ css & Bootstrap4. 
-[link keyword][id]
-
-[id]: URL "Optional Title here"
-
 // code
 Link: [Bootstrap][bootstraplink]
 
