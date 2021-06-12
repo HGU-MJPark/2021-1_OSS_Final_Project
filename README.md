@@ -72,9 +72,5 @@ Link: [Bootstrap][bootstraplink]
 21900269@handong.edu
 
 # Video
-
-
-
-
-
-
+Link: [Youtube][youtubelink]
+[youtubelink]: https://youtu.be/5b6Ke_yqRww
