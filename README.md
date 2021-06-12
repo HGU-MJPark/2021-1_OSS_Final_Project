@@ -1,5 +1,11 @@
 # User Word Vocabulary
 + This vocabulary is for students who want to save and see words that they didn't know before. It provides some functions like add words and show words that user put. I think It helps you to save and see your words. I also needed some saving word program like this. So I made this program by myself.
+
+# Video that helps you understand my program.
+Link [Youtube link][youtubelink]
+
+[youtubelink]:https://youtu.be/5b6Ke_yqRww
+
 # Setting program
 There are some basic steps for you to start this program.
 1. Package upgrade
@@ -70,8 +76,3 @@ Link: [Bootstrap][bootstraplink]
 
 # Inquiry
 21900269@handong.edu
-
-# Video
-Link: [Youtube][youtubelink]
-
-[youtubelink]: https://youtu.be/5b6Ke_yqRww
